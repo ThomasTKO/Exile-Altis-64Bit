@@ -1,2 +1,2 @@
-# Exile-Altis-64Bit
+# Exile-Altis-Tanoa-Malden-64Bit
 All what you need to switch to 64Bit Server
