@@ -1,0 +1,11 @@
+KillMessage                   by 
+PayCheck                      by
+MWarning                      by dulanw https://github.com/dulanw/A3WarningScript
+StatusBar                     by Exile Status Bar by [FPS]kuplion - Based on Stats Bar by Creampie
+Fast Time                     by CRE4MPIE
+Vehicle Trader helipad spawn  by Changes by Xine (Untriel) idea from krwtt and posted by BetterDeadThanZed
+Chopp Tree on Vehicle         by Phate from easy-gaming.net
+Sell mission box on wastedump by Ultima-weapon, April 30, 2017 
+R3F_LOG                       by Copyright (C) 2014 Team ~R3F~
+DMS Mission System            by Defent.eraser1.secondcoming
+Vemf Mission System           by IT07 
